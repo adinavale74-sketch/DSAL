@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adinavale74-sketch/DSAL/tree/master/0004-median-of-two-sorted-arrays) |
+| [0189-rotate-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adinavale74-sketch/DSAL/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

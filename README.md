@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adinavale74-sketch/DSAL/tree/master/0004-median-of-two-sorted-arrays) |
 | [0189-rotate-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0189-rotate-array) |
+| [0682-baseball-game](https://github.com/adinavale74-sketch/DSAL/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,8 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adinavale74-sketch/DSAL/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/adinavale74-sketch/DSAL/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adinavale74-sketch/DSAL/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/adinavale74-sketch/DSAL/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

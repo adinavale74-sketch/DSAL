@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adinavale74-sketch/DSAL/tree/master/0004-median-of-two-sorted-arrays) |
+| [0088-merge-sorted-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinavale74-sketch/DSAL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/adinavale74-sketch/DSAL/tree/master/0217-contains-duplicate) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/adinavale74-sketch/DSAL/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/adinavale74-sketch/DSAL/tree/master/0844-backspace-string-compare) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/adinavale74-sketch/DSAL/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |

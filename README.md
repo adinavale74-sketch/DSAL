@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adinavale74-sketch/DSAL/tree/master/0004-median-of-two-sorted-arrays) |
 | [0189-rotate-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/adinavale74-sketch/DSAL/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/adinavale74-sketch/DSAL/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/adinavale74-sketch/DSAL/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/adinavale74-sketch/DSAL/tree/master/0844-backspace-string-compare) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/adinavale74-sketch/DSAL/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/adinavale74-sketch/DSAL/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->

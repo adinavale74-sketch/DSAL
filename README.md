@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adinavale74-sketch/DSAL/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/adinavale74-sketch/DSAL/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinavale74-sketch/DSAL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinavale74-sketch/DSAL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/adinavale74-sketch/DSAL/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adinavale74-sketch/DSAL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0189-rotate-array) |
@@ -63,10 +65,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adinavale74-sketch/DSAL/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/adinavale74-sketch/DSAL/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adinavale74-sketch/DSAL/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/adinavale74-sketch/DSAL/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/adinavale74-sketch/DSAL/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

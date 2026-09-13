@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adinavale74-sketch/DSAL/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/adinavale74-sketch/DSAL/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/adinavale74-sketch/DSAL/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/adinavale74-sketch/DSAL/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
@@ -84,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adinavale74-sketch/DSAL/tree/master/0075-sort-colors) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adinavale74-sketch/DSAL/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adinavale74-sketch/DSAL/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/adinavale74-sketch/DSAL/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adinavale74-sketch/DSAL/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adinavale74-sketch/DSAL/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/adinavale74-sketch/DSAL/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/adinavale74-sketch/DSAL/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/adinavale74-sketch/DSAL/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adinavale74-sketch/DSAL/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/adinavale74-sketch/DSAL/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/adinavale74-sketch/DSAL/tree/master/0345-reverse-vowels-of-a-string) |
 | [0844-backspace-string-compare](https://github.com/adinavale74-sketch/DSAL/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
